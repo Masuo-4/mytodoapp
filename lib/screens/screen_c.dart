@@ -16,7 +16,6 @@ class _ScreenCState extends State<ScreenC> {
     return MaterialApp(
       home: SafeArea(
         child: Scaffold(
-          //RowかColumn
           body: Column(
             crossAxisAlignment: CrossAxisAlignment.end,
             children: [

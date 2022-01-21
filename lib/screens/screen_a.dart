@@ -28,7 +28,6 @@ class _ScreenAState extends State<ScreenA> {
               ),
               onChanged: (value) {
                 setState(() {
-                  //変化したよっていうのを伝えるの大事
                   _inputText = value;
                 });
               },
