@@ -1,6 +1,6 @@
 # mytodoapp
 
-A new Flutter project.
+Todo作成アプリ。
 
 ## Getting Started
 
