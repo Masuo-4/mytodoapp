@@ -14,7 +14,6 @@ class _ScreenCState extends State<ScreenC> {
   Widget build(BuildContext context) {
     var _screenSize = MediaQuery.of(context).size;
     return MaterialApp(
-      // opt enterでwidgetを選択
       home: SafeArea(
         child: Scaffold(
           //RowかColumn
